@@ -1,0 +1,94 @@
+.col-lg-4{
+	height: 600px;
+}
+
+body {
+	background-color: #948E99;
+    background-image:
+    linear-gradient(
+      to right, 
+      #948E99, #00ABFF
+      
+      
+    );
+}
+
+header {
+	background-color: #948E99;
+    background-image:
+    linear-gradient(
+      to right, 
+      #948E99, #2E1437
+    );
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	font-size: 60px;
+
+	font-family: 'Reenie Beanie', cursive;
+	  background: -webkit-linear-gradient(#FFF200);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  
+	
+
+
+}
+
+
+button.gif {
+	background: #D2E817; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#D2E817); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#D2E817); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#D2E817); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#D2E817); /* Standard syntax */
+	margin-right: 20px;
+	margin-bottom: 20px;
+
+}
+
+div {
+	
+	
+	margin-right: 10px;
+	display: inline-block;
+
+	
+
+}
+
+img.gifImage {
+	border: 5px solid #111;
+-moz-box-shadow: 35px 35px 7px #999999;
+-moz-border-bottom-right-radius: 15px;
+-moz-border-radius:25px;
+padding: 15px 25px;
+height: inherit;
+width: 300px;
+
+}
+
+img:hover {
+	width: 250px;
+	height: 250px;
+	cursor: pointer;
+}
+
+.gifarea{
+	position: center;
+	margin-left: 150px;}
+
+p{ color: white;
+}
+
+#btn-area {
+	margin-left: 150px;
+}
+
+.input-group {
+	position: relative;
+	left: 200px;
+}
